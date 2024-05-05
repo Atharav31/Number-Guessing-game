@@ -94,22 +94,22 @@
             android:text="9"/>
 
         <Button
+            android:id="@+id/buttonClear"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Clr" />
+
+        <Button
             android:id="@+id/button0"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="0"/>
+            android:text="0" />
 
         <Button
             android:id="@+id/buttonEnter"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Enter"/>
-
-        <Button
-            android:id="@+id/buttonClear"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Clr"/>
+            android:text="ENTER" />
 
     </GridLayout>
 
