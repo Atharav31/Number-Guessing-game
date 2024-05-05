@@ -28,7 +28,12 @@ To run the application locally, follow these steps:
 2. Open the project in Android Studio.
 3. Build and run the application on an emulator or physical device.
 
+## Website
+
+I've built a website where you can download the application. You can find the code for the website in the [index.html](index.html) file.
+
+![Website Screenshot](images/website.png)
+
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to Guess The Number, feel free to fork this repository and submit a pull request with your changes.
-
